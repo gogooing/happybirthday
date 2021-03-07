@@ -1,3 +1,3 @@
 # happybirthday
-帮基友做的，祝福她女朋友生日快乐
-https://shibobo.github.io/happybirthday/
+希望晓芸永远开开心心
+https://gogooing.github.io/happybirthday/index.html
